@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PredicateUtilitiesTest
+comment0.text=\n\ Created\ by\ dan\ on\ 6/14/17.\n
+comment1.params=
+comment1.target=void\ testGreaterThanTrue()
+comment2.params=
+comment2.target=void\ testGreaterThanFalse()
+comment3.params=
+comment3.target=void\ testLessThanTrue()
+comment4.params=
+comment4.target=void\ testLessThan1()
+comment5.params=
+comment5.target=void\ testLessOrEqual1()
+comment6.params=
+comment6.target=void\ testLessOrEqual2()
+comment7.params=
+comment7.target=void\ testGreaterOrEqual1()
+comment8.params=
+comment8.target=void\ testGreaterOrEqual2()
+numComments=9

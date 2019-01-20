@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PredicateUtilities
+comment0.text=\n\ Created\ by\ dan\ on\ 6/14/17.\n
+comment1.params=x\ y
+comment1.target=java.lang.Boolean\ isGreaterThan(int,\ int)
+comment1.text=\n\ @param\ x\n\ @param\ y\n\ @return\ true\ if\ `x`\ is\ greater\ than\ `y`\n
+comment2.params=x\ y
+comment2.target=java.lang.Boolean\ isLessThan(int,\ int)
+comment2.text=\n\ @param\ x\n\ @param\ y\n\ @return\ true\ if\ `x`\ is\ less\ than\ `y`\n
+comment3.params=x\ y
+comment3.target=java.lang.Boolean\ isGreaterThanOrEqualTo(int,\ int)
+comment3.text=\n\ @param\ x\n\ @param\ y\n\ @return\ true\ if\ `x`\ is\ greater\ than\ or\ equal\ to\ `y`\n
+comment4.params=x\ y
+comment4.target=java.lang.Boolean\ isLessThanOrEqualTo(int,\ int)
+comment4.text=\n\ @param\ x\n\ @param\ y\n\ @return\ true\ if\ `x`\ is\ less\ than\ or\ equal\ to\ `y`\n
+numComments=5

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=StringParserTest
+comment1.params=
+comment1.target=void\ upperCaseString()
+comment10.params=
+comment10.target=void\ isEqualIgnoreCase()
+comment2.params=
+comment2.target=void\ lowerCaseString()
+comment3.params=
+comment3.target=void\ getFirstCharacter()
+comment4.params=
+comment4.target=void\ getNthCharacter()
+comment5.params=
+comment5.target=void\ upperCaseFirstCharacter()
+comment6.params=
+comment6.target=void\ camelCaseString()
+comment7.params=
+comment7.target=void\ snakeCaseString()
+comment8.params=
+comment8.target=void\ getLength()
+comment9.params=
+comment9.target=void\ isEqual()
+numComments=11

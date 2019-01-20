@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TicketMachineCustom
+comment0.text=\n\ Write\ a\ description\ of\ class\ TicketMachineCustom\ here.\n\n\ Updated\ version\ of\ the\ NaiveTicket\ Lab\ File,\ updated\ w/\ code\ from\n\ the\ textbook\ to\ reflect\ checks\ from\ inputs.\n
+comment1.params=ticketCost
+comment1.target=TicketMachineCustom(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TicketMachineCustom\n
+comment2.params=
+comment2.target=int\ getPrice()
+comment2.text=\ Returns\ the\ price\ of\ a\ ticket.\n
+comment3.params=
+comment3.target=int\ getBalance()
+comment3.text=\ Return\ the\ amount\ of\ money\ inserted\ for\ the\ next\ ticket\n\ \n
+comment4.params=amount
+comment4.target=void\ insertMoney(int)
+comment4.text=\ Taking\ money,\ updating\ the\ balance\n
+comment5.params=
+comment5.target=void\ printTicket()
+comment5.text=\ Print\ a\ ticket\n\ \n
+comment6.params=
+comment6.target=int\ refundBalance()
+numComments=7
