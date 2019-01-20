@@ -1,0 +1,13 @@
+Tariq's Messed up Grocery List...
+
+name:   Bread      seen: 2 times
+=============      =============
+Price:   1.23      seen: 1 time
+-------------      -------------
+
+name: Cookies      seen: 1 time
+=============      =============
+Price:   3.23      seen: 1 time
+-------------      -------------
+
+Errors             seen:  1 time
